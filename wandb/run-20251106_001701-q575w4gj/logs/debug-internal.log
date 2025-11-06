@@ -4,3 +4,9 @@
 {"time":"2025-11-06T00:17:04.5241209+05:30","level":"INFO","msg":"stream: started","id":"q575w4gj"}
 {"time":"2025-11-06T00:17:04.5241209+05:30","level":"INFO","msg":"writer: started","stream_id":"q575w4gj"}
 {"time":"2025-11-06T00:17:04.5241209+05:30","level":"INFO","msg":"sender: started","stream_id":"q575w4gj"}
+{"time":"2025-11-06T04:00:06.5222213+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/trials_/my_project_name/q575w4gj/file_stream\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-11-06T06:15:41.92608+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-11-06T06:15:42.4267569+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/trials_/my_project_name/q575w4gj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-11-06T06:15:42.4957296+05:30","level":"WARN","msg":"sender: taking a long time","seconds":8133.5102181,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"0dlnj2o5yjdw\" connection_id:\"1(127.0.0.1:56936)\")"}
+{"time":"2025-11-06T06:15:52.3010101+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.6:56938->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-11-06T06:15:57.9080813+05:30","level":"INFO","msg":"sender: succeeded after taking longer than expected","seconds":8150.8373791,"work":"WorkRecord(*service_go_proto.Request_StopStatus); Control(local:true mailbox_slot:\"0dlnj2o5yjdw\" connection_id:\"1(127.0.0.1:56936)\")"}
