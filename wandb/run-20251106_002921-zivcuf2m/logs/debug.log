@@ -1,0 +1,12 @@
+2025-11-06 00:29:21,638 INFO    MainThread:11772 [wandb_setup.py:_flush():81] Current SDK version is 0.22.3
+2025-11-06 00:29:21,638 INFO    MainThread:11772 [wandb_setup.py:_flush():81] Configure stats pid to 11772
+2025-11-06 00:29:21,639 INFO    MainThread:11772 [wandb_setup.py:_flush():81] Loading settings from C:\Users\DELL\.config\wandb\settings
+2025-11-06 00:29:21,639 INFO    MainThread:11772 [wandb_setup.py:_flush():81] Loading settings from c:\Users\DELL\vs_code\mlops\Assign2\wandb\settings
+2025-11-06 00:29:21,639 INFO    MainThread:11772 [wandb_setup.py:_flush():81] Loading settings from environment variables
+2025-11-06 00:29:21,639 INFO    MainThread:11772 [wandb_init.py:setup_run_log_directory():706] Logging user logs to c:\Users\DELL\vs_code\mlops\Assign2\wandb\run-20251106_002921-zivcuf2m\logs\debug.log
+2025-11-06 00:29:21,640 INFO    MainThread:11772 [wandb_init.py:setup_run_log_directory():707] Logging internal logs to c:\Users\DELL\vs_code\mlops\Assign2\wandb\run-20251106_002921-zivcuf2m\logs\debug-internal.log
+2025-11-06 00:29:21,640 INFO    MainThread:11772 [wandb_init.py:monkeypatch_ipython():625] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000022717D89480>
+2025-11-06 00:29:21,641 INFO    MainThread:11772 [wandb_init.py:init():833] calling init triggers
+2025-11-06 00:29:21,641 INFO    MainThread:11772 [wandb_init.py:init():838] wandb.init called with sweep_config: {}
+config: {'epochs': 50, 'batch_size': 16, 'learning_rate': 0.01, 'optimizer': 'adam', '_wandb': {}}
+2025-11-06 00:29:21,641 INFO    MainThread:11772 [wandb_init.py:init():881] starting backend

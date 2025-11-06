@@ -1,0 +1,28 @@
+{
+  "os": "Windows-10-10.0.19045-SP0",
+  "python": "CPython 3.10.0",
+  "startedAt": "2025-11-05T18:47:01.150722Z",
+  "program": "c:\\Users\\DELL\\vs_code\\mlops\\Assign2\\mlflow2.ipynb",
+  "codePath": "c:\\Users\\DELL\\vs_code\\mlops\\Assign2\\mlflow2.ipynb",
+  "codePathLocal": "mlflow2.ipynb",
+  "git": {
+    "remote": "https://github.com/Aryayemul/Farmlink.git",
+    "commit": "878f8fc15ba63d1ea4107218534950661e9a05c4"
+  },
+  "email": "arya.22310290@viit.ac.in",
+  "root": "c:\\Users\\DELL\\vs_code\\mlops\\Assign2",
+  "host": "DESKTOP-5MK7CP2",
+  "executable": "c:\\Users\\DELL\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "250751762432",
+      "used": "198145200128"
+    }
+  },
+  "memory": {
+    "total": "25642016768"
+  },
+  "writerId": "t85as2vghmgssqmerhbtc3rc6u4wagjc"
+}
